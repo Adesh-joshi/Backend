@@ -15,12 +15,6 @@ connectDB()
     console.log("mongo DB connection error failed:", error);
   });
 
-
-
-
-
-
-
   
 
 // import express from "express";
